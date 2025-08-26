@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Akanksha Tiwari  
 
-<!--
-**Akanksha292005/Akanksha292005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student (Batch 2027) | Rewa Engineering College  
+💻 Aspiring Software Developer | Passionate about Technology & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently exploring **Full Stack Web Development**  
+- 🌱 Learning **DSA & SQL** for strong problem-solving skills  
+- 💡 Interested in **Software Development, Web Technologies, and Innovation**  
+- 🎯 Goal: To build impactful projects and grow as a developer  
+
+---
+
+## 🛠️ Tech Skills  
+- **Languages**: C, C++, Python, JavaScript  
+- **Web**: HTML, CSS, Bootstrap, jQuery, Django  
+- **Database**: SQL (learning)  
+- **Others**: Git, GitHub  
+
+---
+
+## 📂 Projects  
+- 🌐 Portfolio Website (HTML, CSS, JS)  
+- 📊 Small web apps and practice projects (JS, Django)  
+*(More projects coming soon...)*  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+- 🖤 GitHub: [github.com/Akanksha292005](https://github.com/Akanksha292005)  
+
+---
+
+✨ *Always curious to learn, grow, and contribute to technology.*
