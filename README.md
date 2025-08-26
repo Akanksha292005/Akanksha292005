@@ -29,9 +29,9 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
-- 🖤 GitHub: [github.com/Akanksha292005](https://github.com/Akanksha292005)  
+- 💼 LinkedIn: [Akanksha Tiwari](https://www.linkedin.com/in/akanksha-tiwari-a9b290290)  
+- 🖤 GitHub: [Akanksha292005](https://github.com/Akanksha292005)  
+- 🧩 LeetCode: [AbGLIXif5m](https://leetcode.com/u/AbGLIXif5m)  
 
 ---
 
